@@ -3612,7 +3612,7 @@ input, select, textarea {
 			left: 0;
 			height: 100%;
 			width: 100%;
-			background: rgba(240,136,64, 0.55);
+			background: rgba(240,136,64, 0.40);
 		    color: #fff;
 			padding: 1.5em 0;
 		}
