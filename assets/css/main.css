@@ -456,7 +456,7 @@ input, select, textarea {
 
 			.container2 {
 				width: 95%;
-				right: 74%;
+				right: 72%;
 			}
 
 		}
@@ -3924,6 +3924,25 @@ input, select, textarea {
 				line-height: 1.5em;
 			}
 
+
+		#nav > ul > li a {
+					color: #042D4B;
+					text-decoration: none;
+					border: 0;
+					display: block;
+					padding: 3em 0.5em 2.75em 0em;
+					
+		} 
+
+#header .button {
+			background-color: transparent;
+			box-shadow: inset 0 0 0 2.2px #F08840;
+			color: #F08840;
+			font-weight: 550;
+			margin-right: 3.7em;
+			margin-left: 2em;
+			
+		}	
 	}
 
 /* Narrower */
